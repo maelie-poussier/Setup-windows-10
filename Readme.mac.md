@@ -1,5 +1,3 @@
-Je vais vous résumer et réécrire les instructions d'installation pour macOS en respectant votre demande de modification et de traduction :
-
 ### Configuration de l'Environnement de Développement pour macOS
 
 #### Prérequis
