@@ -56,6 +56,6 @@ Voici une version complète et intégrée du guide pour la configuration de l'en
 
 #### Vérification de l'installation
 
-Vérifiez chaque installation avec les commandes appropriées pour Git, Node.js, Yarn, et Rails. Assurez-vous que tous les outils répondent avec les versions attendues.
+Vérifiez chaque installation avec les commandes appropriées pour Git, Node.js, Yarn. Assurez-vous que tous les outils répondent avec les versions attendues.
 
 Cette documentation complète vous aidera à préparer et vérifier un environnement de développement robuste sous Windows.
