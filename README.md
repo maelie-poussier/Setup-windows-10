@@ -45,11 +45,9 @@ Voici une version complète et intégrée du guide pour la configuration de l'en
     echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
     sudo apt update
     sudo apt install -y gh
-    ```
+    ``
 
-11. **Navigateur par défaut sous Ubuntu** : Configurez un navigateur par défaut avec `sudo update-alternatives --config x-www-browser`.
-
-12. **Authentification GitHub** : Authentifiez-vous sur GitHub avec :
+11. **Authentification GitHub** : Authentifiez-vous sur GitHub avec :
     ```bash
     gh auth login -s 'user:email' -w
     ```
